@@ -1,2 +1,2 @@
-# umlinfo2480
-UML course work for info 2480
+# uml2480
+The starter package for UML INFO-2480 as of Jan 2025
